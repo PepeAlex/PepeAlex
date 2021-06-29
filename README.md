@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi there 👋
+
+- My name is Alexander Pepe
+- I am a brazilian guy living in Ireland
+- 🌱 I’m currently learning Data Analytics at GMIT
+
 
 <!--
 **PepeAlex/PepeAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### My first badge. 👋👋👋👋👋
+
+![alt text](https://github.com/PepeAlex/PepeAlex/blob/master/Screenshot%202021-06-29%20at%2017.00.26.png)
